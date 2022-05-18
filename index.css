@@ -1,0 +1,58 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.textarea{
+    height: 3rem;
+    background-color: #91F5AD;
+   
+}
+
+#list_item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+ 
+}
+
+li{
+    margin: 1rem 0 1rem 0;
+    
+}
+
+.add-button{
+    width: 30vw;
+    height: 2rem;
+    background-color: #FF934F;
+}
+
+.form-group{
+    display: flex;
+    justify-content: center;
+}
+
+.font_selector_div{
+margin: 0 0 1rem 0;
+
+}
+#font-selector{
+    background-color: #C2E812;
+}
+
+
+
+body { 
+    font-family: 'Arial'; 
+    background-color: #FFFFFF ; 
+}
+
+.list_container{
+
+    margin: 0 30% 0 30%;
+
+}
